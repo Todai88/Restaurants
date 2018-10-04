@@ -1,0 +1,9 @@
+C:\Users\Todai\Source\Repos\BosungRestaurants\BosungRestaurants\bin\Debug\BosungRestaurants.exe.config
+C:\Users\Todai\Source\Repos\BosungRestaurants\BosungRestaurants\bin\Debug\BosungRestaurants.exe
+C:\Users\Todai\Source\Repos\BosungRestaurants\BosungRestaurants\bin\Debug\BosungRestaurants.pdb
+C:\Users\Todai\Source\Repos\BosungRestaurants\BosungRestaurants\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Todai\Source\Repos\BosungRestaurants\BosungRestaurants\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Todai\Source\Repos\BosungRestaurants\BosungRestaurants\obj\Debug\BosungRestaurants.csproj.CoreCompileInputs.cache
+C:\Users\Todai\Source\Repos\BosungRestaurants\BosungRestaurants\obj\Debug\BosungRestaurants.exe
+C:\Users\Todai\Source\Repos\BosungRestaurants\BosungRestaurants\obj\Debug\BosungRestaurants.pdb
+C:\Users\Todai\Source\Repos\BosungRestaurants\BosungRestaurants\obj\Debug\BosungRestaurants.csprojResolveAssemblyReference.cache

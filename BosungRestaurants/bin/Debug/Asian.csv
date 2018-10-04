@@ -1,0 +1,21 @@
+Id,Name,Cousines,Rating,PriceLevel,PlaceId,Ref,Latitude,Longitude,CloseTo
+0,Yuu Kitchen,Asian,4.5,2,50d825c4322fce19f48335d5040fbe729b66662f,ChIJq0r5GLUcdkgR9zRFDFoJATM,51.5163458,-0.0732885,29 Commercial St, London
+1,East Street Restaurant,Asian,4.2,0,8c60dc07be31c60fd9ce858cd2ec6ad6209aa85a,ChIJIyhE7ywbdkgRMSlLC6ZZohc,51.51659,-0.13303,3-5 Rathbone Pl, London
+2,Rosa's Thai Cafe Spitalfields,Asian,4.1,2,8dc504bc9953487a703454599427f24b1cc9316a,ChIJzbPEKbQcdkgRoRvhH54pn7w,51.520223,-0.073791,12 Hanbury St, London
+3,Banana Tree Westbourne Grove,Asian,4.1,2,7898c95bf819e7f6ecbad08eb9c5702fe364e373,ChIJKccnIwAQdkgRUXiTCFKzLmQ,51.5155328,-0.1894082,Standard Indian Restaurant, Westbourne Grove, London
+4,Kaia,Asian,4.1,0,7b425cdf8765b338f5d09670c88e7c27f8ce19b2,ChIJZbiEwVQDdkgRL85t9W9GNF0,51.5139123,-0.0896229,The Ned, 27 Poultry, London
+5,Tootoomoo Whetstone,Asian,4,2,7a2d521796e62f43fd4f4e16385c5a1e43b9fbd3,ChIJF1hhyM8ZdkgRZPJMqdFd1_k,51.633002,-0.175823,1371 High Rd, London
+6,Tootoomoo Islington,Asian,4,0,c76e6dc7661fb744b42a8f51722b5d5ecf303af0,ChIJ8b6GsmQbdkgRny70eEw1a28,51.546363,-0.100685,278 St Paul's Rd, London
+7,ULI,Asian,4.3,2,a695a9e42088b12b1bbde0315734fa22318e565a,ChIJ3-UGnvwPdkgRsHvyvZbrro4,51.509612,-0.19796,5 Ladbroke Rd, London
+8,Banana Tree Soho,Asian,4.1,2,1889d7fbc6872f527f54210285e66e3c37057369,ChIJNyG8bdMEdkgRTf93j7EbIDA,51.5131223,-0.1339119,103 Wardour St, London
+9,Banana Tree Islington,Asian,4,2,4e8b296706aead342b6b5010730d9d7b5918a81d,ChIJTwETTUMbdkgRNfQJ9UT-gwU,51.531372,-0.1059326,412-416 St John St, London
+10,Sawadika Thai Restaurant,Asian,3.9,0,1b6ffc19b3636691ca32458d4ef984b62442a4ae,ChIJIU_tcUobdkgR9IpjkNLo0gQ,51.5184819,-0.1169038,71A Red Lion St, London
+11,Rosa's Thai Cafe Victoria,Asian,4,2,5b93bd596b0b76d2253a93fd7fbecf9655924051,ChIJ5y8q-B8FdkgRNAGbmj7KOU8,51.4937539,-0.1415854,25 Gillingham St, London
+12,dim t,Asian,3.6,2,a3464d623c1cec9ddefe9e5bb3c5dad46bbdfaab,ChIJH85Fkk8DdkgRo99R85cwmaU,51.5052776,-0.0802491,2 More London Riverside, London
+13,FuLuShou Pan Asian Restaurant,Asian,0,0,5f96652bfb62b15b5b7bd029eabcfabd7e309161,ChIJfU2XH9IEdkgRWM7N_ONxWSE,51.5098639,-0.1304892,Leicester Square Chambers, 42 Leicester Square, London
+14,Banana Tree Maida Vale,Asian,4.2,2,79adb2ebed40d39e78d478f97fcd21810504d83b,ChIJjY6RMKcadkgR5VWAJPuqjus,51.5297841,-0.1856962,166 Randolph Ave, London
+15,Bugis Street Brasserie,Asian,4,2,81212be54815695ae513ffdf2bd37e6d94045c99,ChIJZ6G2Al4FdkgRRrImZzNtJco,51.4936309,-0.1840505,Millennium Gloucester Hotel, 4-18 Harrington Gardens, London
+16,Mei Ume,Asian,4.4,4,b5f834b7ab764a2e1753ebfe4c50338faf15fff6,ChIJmWG2I0wDdkgR5QFMkdoNxEU,51.510102,-0.07798,10 Trinity Square, London
+17,Bintang,Asian,3.9,2,78eff8c26b234752c64da2b8707a9e6bc15d6c79,ChIJc_h0ZeIadkgRdri2AhGTfRY,51.5435207,-0.1418974,93 Kentish Town Rd, London
+18,dim t,Asian,3.8,2,a53161332a7f317b35c594ffa5f87601ecaecf12,ChIJjZyz_B8FdkgRCxl46YcOCVE,51.493451,-0.141186,56-62 Wilton Rd, London
+19,Thai Square Trafalgar Square,Asian,4,2,72d7adc7fccdc038d4644b73d35045257732d44a,ChIJ7TpKztEEdkgRkuPDNp_g11g,51.507381,-0.1300773,21-24 Cockspur St, London
